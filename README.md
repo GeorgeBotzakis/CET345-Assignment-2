@@ -1,5 +1,3 @@
-# CET345-Assignment-2
-The project developed for the final assignment of the CET345: Professional Games Portfolio module of the university. 
 # Game Title: Force
 # Description
 The game developed during the course of the CET345: Professional Games Portfolio module of the university. 
