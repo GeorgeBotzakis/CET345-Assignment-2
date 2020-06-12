@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 15786065338b1344a8d9d555ffc18269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7328485492252041653
+    second: platformertiles_0
+  - first:
+      213: -5487019732987756331
+    second: platformertiles_1
+  - first:
+      213: 1923657477414630394
+    second: platformertiles_2
+  - first:
+      213: -1814693899889541403
+    second: platformertiles_3
+  - first:
+      213: -4253263154408238459
+    second: platformertiles_4
+  - first:
+      213: -4837970843336535211
+    second: platformertiles_5
+  - first:
+      213: -8302749490443953357
+    second: platformertiles_6
+  - first:
+      213: 142560535057424700
+    second: platformertiles_7
+  - first:
+      213: -4844041593398729352
+    second: platformertiles_8
+  - first:
+      213: 3100555451744508802
+    second: platformertiles_9
+  - first:
+      213: 5003944622419622076
+    second: platformertiles_10
+  - first:
+      213: 209829421353997176
+    second: platformertiles_11
+  - first:
+      213: 2824346953007444035
+    second: platformertiles_12
+  - first:
+      213: -434758855462794130
+    second: platformertiles_13
+  - first:
+      213: 6322376636679874585
+    second: platformertiles_14
+  - first:
+      213: 6552956441020618134
+    second: platformertiles_15
+  - first:
+      213: -4613995634937125382
+    second: platformertiles_16
+  - first:
+      213: 3035220761585591445
+    second: platformertiles_17
+  - first:
+      213: -7639490386532026022
+    second: platformertiles_18
+  - first:
+      213: 2145988167942351614
+    second: platformertiles_19
+  - first:
+      213: 561048065030943669
+    second: platformertiles_20
+  - first:
+      213: 59167242545329081
+    second: platformertiles_21
+  - first:
+      213: 5265103046397741778
+    second: platformertiles_22
+  - first:
+      213: -993378036349562320
+    second: platformertiles_23
+  - first:
+      213: 6352812325849674789
+    second: platformertiles_24
+  - first:
+      213: 8507014005895170931
+    second: platformertiles_25
+  - first:
+      213: 4890997688448248504
+    second: platformertiles_26
+  - first:
+      213: -7253639640402402134
+    second: platformertiles_27
+  - first:
+      213: 1743179938941720293
+    second: platformertiles_28
+  - first:
+      213: -2237326335327930988
+    second: platformertiles_29
+  - first:
+      213: 7094490862166960879
+    second: platformertiles_30
+  - first:
+      213: 4812353452270519311
+    second: platformertiles_31
+  - first:
+      213: 3057993455796151823
+    second: platformertiles_32
+  - first:
+      213: 2398603269273241554
+    second: platformertiles_33
+  - first:
+      213: 8575245522745616490
+    second: platformertiles_34
+  - first:
+      213: 2160731904251088247
+    second: platformertiles_35
+  - first:
+      213: -1517154625384118495
+    second: platformertiles_36
+  - first:
+      213: 4051560754911600486
+    second: platformertiles_37
+  - first:
+      213: 7057019241261977997
+    second: platformertiles_38
+  - first:
+      213: -5334509120434761926
+    second: platformertiles_39
+  - first:
+      213: -8910705990577920041
+    second: platformertiles_40
+  - first:
+      213: 5971730140246333193
+    second: platformertiles_41
+  - first:
+      213: -3650697817937794955
+    second: platformertiles_42
+  - first:
+      213: 7379086952720589104
+    second: platformertiles_43
+  - first:
+      213: -8723904661472513896
+    second: platformertiles_44
+  - first:
+      213: 3114473311411180941
+    second: platformertiles_45
+  - first:
+      213: 5650964406259177616
+    second: platformertiles_46
+  - first:
+      213: -3536175000440245102
+    second: platformertiles_47
+  - first:
+      213: -7956275734799330319
+    second: platformertiles_48
+  - first:
+      213: -7201027630948734890
+    second: platformertiles_49
+  - first:
+      213: -91309638213286314
+    second: platformertiles_50
+  - first:
+      213: 7698755277416952888
+    second: platformertiles_51
+  - first:
+      213: 5177946582648970342
+    second: platformertiles_52
+  - first:
+      213: 2914385333943235035
+    second: platformertiles_53
+  - first:
+      213: 2807483367437924813
+    second: platformertiles_54
+  - first:
+      213: -240710077717168888
+    second: platformertiles_55
+  - first:
+      213: -7332976042834632248
+    second: platformertiles_56
+  - first:
+      213: -85184751208610238
+    second: platformertiles_57
+  - first:
+      213: -8845973472976521734
+    second: platformertiles_58
+  - first:
+      213: -1774995104405037359
+    second: platformertiles_59
+  - first:
+      213: 7529514986030415640
+    second: platformertiles_60
+  - first:
+      213: -8291705703368226087
+    second: platformertiles_61
+  - first:
+      213: -3915449579748972746
+    second: platformertiles_62
+  - first:
+      213: 5869890468493618327
+    second: platformertiles_63
+  - first:
+      213: -7560479715764878290
+    second: platformertiles_64
+  - first:
+      213: -1851573351531538452
+    second: platformertiles_65
+  - first:
+      213: -6246262008838481062
+    second: platformertiles_66
+  - first:
+      213: 6554646353676072784
+    second: platformertiles_67
+  - first:
+      213: -5499232337108806718
+    second: platformertiles_68
+  - first:
+      213: 8534009480713125896
+    second: platformertiles_69
+  - first:
+      213: -8551471286574667703
+    second: platformertiles_70
+  - first:
+      213: -7415681131400062548
+    second: platformertiles_71
+  - first:
+      213: -6403880730589999506
+    second: platformertiles_72
+  - first:
+      213: 5361010143611470408
+    second: platformertiles_73
+  - first:
+      213: 3243672985143538569
+    second: platformertiles_74
+  - first:
+      213: -4666532863860112553
+    second: platformertiles_75
+  - first:
+      213: 5674340950504968839
+    second: platformertiles_76
+  - first:
+      213: 6393610657774872224
+    second: platformertiles_77
+  - first:
+      213: -8862712847341575241
+    second: platformertiles_78
+  - first:
+      213: -7739748457616017228
+    second: platformertiles_79
+  - first:
+      213: 8650253446061252962
+    second: platformertiles_80
+  - first:
+      213: 95788078551887975
+    second: platformertiles_81
+  - first:
+      213: -6905211274644200417
+    second: platformertiles_82
+  - first:
+      213: 3424588646714337048
+    second: platformertiles_83
+  - first:
+      213: 5781803777379086009
+    second: platformertiles_84
+  - first:
+      213: 437025051558589384
+    second: platformertiles_85
+  - first:
+      213: 8375685776728554591
+    second: platformertiles_86
+  - first:
+      213: 4641246413178778938
+    second: platformertiles_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformertiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1694b2ab204b560800000000000000
+      internalID: 7328485492252041653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c4b3df903ad3b0800000000000000
+      internalID: -5487019732987756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b2d2a84432ba10800000000000000
+      internalID: 1923657477414630394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef3014389e0d6e0800000000000000
+      internalID: -1814693899889541403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825d3122bf59f4c0800000000000000
+      internalID: -4253263154408238459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539a3196231cdcb0800000000000000
+      internalID: -4837970843336535211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b580b0455b6cc80800000000000000
+      internalID: -8302749490443953357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3166132d0a7af100800000000000000
+      internalID: 142560535057424700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875604ce5d186ccb0800000000000000
+      internalID: -4844041593398729352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bd1a381c2670b20800000000000000
+      internalID: 3100555451744508802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83c0f3f15917540800000000000000
+      internalID: 5003944622419622076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8731b3b3fb679e200800000000000000
+      internalID: 209829421353997176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3403778f698123720800000000000000
+      internalID: 2824346953007444035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c4f29df1d67f9f0800000000000000
+      internalID: -434758855462794130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918688dbd089db750800000000000000
+      internalID: 6322376636679874585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69554aff927c0fa50800000000000000
+      internalID: 6552956441020618134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ae508a6bc7ffb0800000000000000
+      internalID: -4613995634937125382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594233d83354f1a20800000000000000
+      internalID: 3035220761585591445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a593fbd18f31bf590800000000000000
+      internalID: -7639490386532026022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa256a6ed418cd10800000000000000
+      internalID: 2145988167942351614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f61a1e3e39c700800000000000000
+      internalID: 561048065030943669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f04a2b4432d000800000000000000
+      internalID: 59167242545329081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da4d523357611940800000000000000
+      internalID: 5265103046397741778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformertiles_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03295b760ffc632f0800000000000000
+      internalID: -993378036349562320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

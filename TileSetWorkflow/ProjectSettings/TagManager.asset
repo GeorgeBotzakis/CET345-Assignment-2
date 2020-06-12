@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wizard
+  - SmallBox
+  - UnbreakableBox
+  - LevelKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Wall
+  - Enemy
+  - Object
+  - Projectile
+  - Pickup
+  - Goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4234861101
+    locked: 0
+  - name: Decorations
+    uniqueID: 1382413033
+    locked: 0
+  - name: Foreground
+    uniqueID: 3063404991
+    locked: 0
+  - name: Player
+    uniqueID: 1876183825
+    locked: 0
+  - name: EnemyUi
+    uniqueID: 3845860799
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4198083619
+    locked: 0
+  - name: WorldUI
+    uniqueID: 2308894665
+    locked: 0
